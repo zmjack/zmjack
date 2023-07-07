@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-- :cat: Focusing on .NET & TypeScript
+- :cat: Focusing on **.NET** & **TypeScript**
 - 🌱 Creator of coding infrastructure.
-- :two_hearts: My precious: NStandard / LinqSharp
+- :two_hearts: My precious: **NStandard** & **LinqSharp**
 - :beers: Beer lover
 
 <!--
