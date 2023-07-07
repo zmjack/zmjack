@@ -4,7 +4,7 @@
 
 - :cat: Focusing on .NET & TypeScript
 - 🌱 Creator of coding infrastructure.
-- :two_hearts: Favorite libraries: NStandard / LinqSharp
+- :two_hearts: My precious: NStandard / LinqSharp
 - :beers: Beer lover
 
 <!--
